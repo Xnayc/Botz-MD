@@ -5,33 +5,33 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6281617247994'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6281617247994'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6281617247994'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
-global.instagram = 'https://www.instagram.com/danibotz_official' //ganti pakai Instagram mu
-global.github = 'https://github.com/YTDANIBOTZ' //ganti aja pakai githubmu
+global.nameowner = 'nanatt setorr'
+global.numberowner = '6281617247994' //ganti pakai nomor mu
+global.instagram = 'https://www.instagram.com/nndylst_' //ganti pakai Instagram mu
+global.github = 'https://github.com/Xnayc' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
 global.sc = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.snh = 'https://nhentai.net/g/365296/'
 global.yt = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg'
-global.dana = '081251549899' //ganti pakai nomor dana mu
-global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
-global.gopay = '081352848936' //ganti pakai nomor Gopay mu
+global.dana = '085817375168' //ganti pakai nomor dana mu
+global.pulsa = '085786148114' //ganti pakai nomor pulsa mu
+global.gopay = '085845548316' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
-global.web = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://www.instagram.com/danibotz_official' //ganti pakai Instagram mu
+global.namebot = 'natccy bot' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/J5ad3yJYAfjJldmXGzC7fc' //ganti pakai grup mu
+global.web = 'https://www.instagram.com/nndylst_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://www.instagram.com/nndylst_' //ganti pakai Instagram mu
 global.saweria = '"_"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6281251549899' //ganti jadi nomor mu
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.nomer = 'https://wa.me/6281617247994' //ganti jadi nomor mu
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 5.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 10.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 3.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //ganti jadi foto bot mu
@@ -45,11 +45,11 @@ global.fotonya8 = 'https://telegra.ph/file/2f4105651a1d9aba5a3fc.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/4720d8dc811569a29e48f.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪Danibotz-Ofc⳹ ❋ཻུ۪۪'
+global.wm = 'nanat'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜDani_ofcོ1꧅'
-global.wm3 = 'ᯤ Dani Offcial'
-global.titlebot = 'ᗪani Offcial ✯✯✯✯✯'
+global.wm2 = 'ᯤ creator by nanat store'
+global.wm3 = 'ᯤ Nanattt'
+global.titlebot = 'Nanat Store ✯✯✯✯✯'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -59,8 +59,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'DaniBotz-Ofc'
-global.author = '@Dani Official'
+global.packname = 'natccy bot'
+global.author = '@nanat'
 global.bg = 'await(await fetch(https://telegra.ph/file/4a7e5f18efaadec18a7a0.jpg)).buffer()'
 
 
